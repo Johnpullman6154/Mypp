@@ -21,8 +21,8 @@ body {
 }
 
 header {
-    background-color: #474364; /* Medium grey for header */
-    color: #333333;
+    background-color: #808080; /* Medium grey for header */
+    color: #808080;
     padding: 1px 0;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adding a subtle shadow */
@@ -30,7 +30,7 @@ header {
 
 .top-nav {
     padding: 10px;
-    background-color: #474364; /* Dark grey for top navigation */
+    background-color: #808080; /* Dark grey for top navigation */
     transform: translateY(-5px);
 }
 
