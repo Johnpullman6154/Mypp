@@ -17,7 +17,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #808080; /* Light grey background */
-    color: #808080;
+    color: #FFFFFF;
 }
 
 header {
@@ -101,12 +101,12 @@ nav.top-nav ul li a:hover {
 
 .game-item h3 {
     margin: 20px 0;
-    color: #808080;
+    color: #FFFFFF;
 }
 
 footer {
     background-color: #808080; /* Light grey for footer */
-    color: #808080;
+    color: #FFFFFF;
     padding: 10px 0;
     text-align: center;
     position: fixed;
@@ -117,7 +117,7 @@ footer {
 
 .footer {
     background-color: #808080; /* Light grey for footer */
-    color: #808080;
+    color: #FFFFFF;
     padding: 10px 0;
     text-align: center;
     bottom: 0;
@@ -125,14 +125,14 @@ footer {
     box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1); /* Adding a subtle shadow */
 }
 .footer a {
-    color: #808080; /* Blue for links */
+    color: #FFFFFF; /* Blue for links */
     text-decoration: none;
 }
 .footer a:hover {
     text-decoration: underline;
 }
 a {
-    color: #808080; /*Blue for links*/
+    color: #FFFFFF; /*Blue for links*/
     text-decoration: none;
 }
 a:hover {
@@ -165,12 +165,12 @@ a:hover {
   border: 2px solid #333;
   border-radius: 5px 0 0 5px; /* Rounded corners on the left */
   padding: 10px;
-  color: #808080;
+  color: #FFFFFF;
   outline: none;
 }
 
 .main-search::placeholder {
-  color: #808080;
+  color: #FFFFFF;
   opacity: 1;
   font-size: 18px;
 }
@@ -182,7 +182,7 @@ a:hover {
   box-shadow: 0 0 15px 2px rgba(0, 0, 0, 0.2);
   background: #808080;
   border: 2px solid #808080;
-  color: #808080;
+  color: #FFFFFF;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -268,13 +268,13 @@ a:hover {
 /* CSS for game titles within the cards */
 .game-item h3 {
     margin: 20px 0;
-    color: #808080;
+    color: #FFFFFF;
     font-size: 18px;
 }
 
 /* CSS for game links within the cards */
 .game-item a {
-    color: #808080;
+    color: #FFFFFF;
     text-decoration: none;
 }
 .game-item a:hover {
@@ -292,7 +292,7 @@ a:hover {
 /* Styles for the theme selection label */
 .theme-container label {
     font-size: 18px;
-    color: #808080;
+    color: #FFFFFF;
     margin-right: 10px;
 }
 
@@ -303,7 +303,7 @@ a:hover {
     border-radius: 5px;
     border: 1px solid #cccccc;
     background-color: #808080; /* Light grey background */
-    color: #808080;
+    color: #FFFFFF;
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
@@ -314,7 +314,7 @@ a:hover {
 
 .play-button {
     background-color: #808080; /* Pale yellow for play button */
-    color: #808080;
+    color: #FFFFFF;
     padding: 15px 40px;
     font-size: 20px;
     border: 2px solid #e0e0e0; /* Slightly darker grey border */
@@ -328,7 +328,7 @@ a:hover {
 
 .play-button:hover {
     background-color: #808080; /* Lighter shade of yellow on hover */
-    color: #808080; /* Darker grey text color on hover */
+    color: #FFFFFF; /* Darker grey text color on hover */
     border-color: #cccccc; /* Darker grey border color on hover */
 }
 
@@ -343,7 +343,7 @@ a:hover {
 
 .domain-selection h2 {
     margin-top: 0;
-    color: #808080;
+    color: #FFFFFF;
 }
 
 .domain-selection select, 
@@ -357,12 +357,12 @@ a:hover {
     border-radius: 5px;
     font-size: 16px;
     background-color: #808080;
-    color: #808080;
+    color: #FFFFFF;
 }
 
 .domain-selection button {
     background-color: #808080; 
-    color: #808080;
+    color: #FFFFFF;
     cursor: pointer;
     transition: background-color 0.3s;
     width: fit-content;
@@ -375,7 +375,7 @@ a:hover {
 }
 
 .domain-selection .info-link {
-    color: #808080;
+    color: #FFFFFF;
     text-decoration: none;
 }
 
