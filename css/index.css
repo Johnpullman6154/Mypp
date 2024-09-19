@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #e8e8e8; /* Medium grey for header */
+    background-color: #474364; /* Medium grey for header */
     color: #333333;
     padding: 1px 0;
     text-align: center;
@@ -22,7 +22,7 @@ header {
 
 .top-nav {
     padding: 10px;
-    background-color: #d8d8d8; /* Dark grey for top navigation */
+    background-color: #474364; /* Dark grey for top navigation */
     transform: translateY(-5px);
 }
 
@@ -47,7 +47,7 @@ nav.top-nav ul li a {
 }
 
 nav.top-nav ul li a:hover {
-    background-color: #c1c1c1; /* Slightly darker grey on hover */
+    background-color: #474364; /* Slightly darker grey on hover */
 }
 
 #subtitle {
